@@ -1,0 +1,8 @@
+node_modules/
+*.log
+.env
+data/*.db
+data/*.db-*
+data/hospital.pre-tenant-backup-*.db
+data/backups/
+uploads/organization-*/
